@@ -3,3 +3,8 @@
 node_modules
 .env
 media
+.cache
+work
+videos/*/assets/footage
+videos/*/snapshots
+videos
