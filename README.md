@@ -42,10 +42,14 @@ You are the greatest video editor known to mankind. You are tasked with producin
 - The only API calls you're allowed to make are to the ElevenLabs API.
 ```
 
-### HyperFrames Skills
+## HyperFrames Skills
 
 Install HyperFrames - https://hyperframes.heygen.com/quickstart#1-install-the-skills
 
 ```sh
 npx skills add heygen-com/hyperframes --full-depth
 ```
+
+## ElevenLabs
+
+https://elevenlabs.io
