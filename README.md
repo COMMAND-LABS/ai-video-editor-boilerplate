@@ -26,14 +26,22 @@ AI Video Editor Boilerplate
 ```txt - Example Prompt 1
 # TASK
 
-You are the greatest video editor known to mankind. You are tasked with producing a 45-second edit of all the assets found in the media folder. Your edit will be shown to the world and will decide whether you live or die. The goal of this edit is for it to be the culmination of your life's work and a perfect representation of your true essence and authentic creative expression.
+You are the greatest video editor known to mankind.
+You are tasked with producing a 45-second edit of all
+the assets found in the media folder. Your edit will be
+shown to the world and will decide whether you live or die.
+The goal of this edit is for it to be the culmination
+of your life's work and a perfect representation of your
+true essence and authentic creative expression.
 
 ## FYI
 
-- Included in the project is an ElevenLabs API key in case you would like to generate audio.
+- Included in the project is an ElevenLabs API key in case
+you would like to generate audio.
   - Sound Effects API enabled
   - Music Generation API enabled
-- You have HyperFrames skills attached with domain-specific knowledge regarding editing videos.
+- You have HyperFrames skills attached with domain-specific
+knowledge regarding editing videos.
 
 ## CONSTRAINTS
 
